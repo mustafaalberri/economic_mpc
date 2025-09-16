@@ -1,1 +1,2 @@
-Please read the report that describes the whole project. You can also run the code if needed (Jupyter notebook) by downloading the 'code' folder and installing the needed dependencies (numpy, matplotlib, casadi).
+Please read the report that describes the whole project.
+If you need to run the code, please email mustafaalberri@gmail.com for sharing the code and instructions.
